@@ -1,0 +1,9 @@
+.avatar-main{
+    height: 40px;
+}
+.avatar-main img{
+    width: 40px;
+    box-sizing: border-box;
+    border: 0px;
+    border-radius: 7px;
+}

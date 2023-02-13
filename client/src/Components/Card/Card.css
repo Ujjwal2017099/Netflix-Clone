@@ -1,0 +1,10 @@
+.main-card{
+    color: #fff;
+}
+
+.main-card img{
+    width: 250px;
+    height: 140px;
+    border-radius: 3px;
+    margin-right: 8px;
+}

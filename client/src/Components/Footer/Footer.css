@@ -1,0 +1,26 @@
+.main-footer{
+    color: #3a3838;
+    padding: 45px 0px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.main-footer h3{
+    margin-bottom: 35px;
+    width: 87%;
+}
+
+.main-footer table{
+    width: 87%;
+}
+
+.main-footer table tr{
+    width: 100%;
+}
+
+.main-footer table tr td{
+    padding-top: 15px;
+}

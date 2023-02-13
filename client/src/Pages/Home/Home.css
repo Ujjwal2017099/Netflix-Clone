@@ -1,0 +1,26 @@
+a{
+    text-decoration: none;
+    color: #fff;
+}
+.home-main{
+    background-color: #0e0c0c;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+.home-content{
+    margin-top: 20px;
+}
+
+.my-list{
+    width: 96%;
+    display: flex;
+    flex-direction: column;
+}
+
+.my-list h2{
+    color : #fff;
+    margin-bottom: 7px;
+}
